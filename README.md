@@ -327,3 +327,4 @@ The "troll flag" in `/root/root.flag` was a nice touch. This shows how easy a us
 
 ---
 
+<img src="povgrnd/pwnd.png" alt="Root Access Achieved" width="700" style="display:block">
